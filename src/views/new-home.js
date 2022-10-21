@@ -152,7 +152,7 @@ const NewHome = (props) => {
             <br></br>
           </h1>
         </Link>
-        <Link to="/l-b-pets" className="new-home-navlink16">
+        <Link to="/donate" className="new-home-navlink16">
           <h1 className="new-home-text33">
             <span className="headline3">Donate for cynxvalues.com [SOON]</span>
             <br></br>
