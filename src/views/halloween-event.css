@@ -1,0 +1,884 @@
+.halloween-event-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(135deg, rgb(0, 0, 0) 1.00%,rgb(88, 60, 19) 100.00%);
+}
+.halloween-event-header-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.halloween-event-header {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-doubleunit);
+  z-index: 100;
+  position: relative;
+  max-width: 1110px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.halloween-event-logo {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.halloween-event-menu {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.halloween-event-navlink {
+  color: #0cf9f5;
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: underline;
+}
+.halloween-event-navlink:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink01 {
+  color: #0cf9f5;
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: underline;
+}
+.halloween-event-navlink01:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink02 {
+  color: #0cf9f5;
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: underline;
+}
+.halloween-event-navlink02:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink03 {
+  color: #0cf9f5;
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: underline;
+}
+.halloween-event-navlink03:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink04 {
+  color: rgb(12, 249, 245);
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: underline;
+}
+.halloween-event-navlink04:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-text:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink05 {
+  color: #0cf9f5;
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: underline;
+}
+.halloween-event-navlink05:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-container01 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.halloween-event-burger-menu {
+  display: none;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.halloween-event-menu1 {
+  width: 24px;
+  height: 24px;
+  margin-left: var(--dl-space-space-unit);
+}
+.halloween-event-mobile-menu {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: var(--dl-space-space-doubleunit);
+  z-index: 101;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: #000000;
+}
+.halloween-event-top {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: row;
+  justify-content: space-between;
+}
+.halloween-event-logo1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.halloween-event-close-menu {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.halloween-event-icon3 {
+  width: 24px;
+  height: 24px;
+}
+.halloween-event-mid {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.halloween-event-navlink06 {
+  color: #5ffffe;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: underline   none;
+}
+.halloween-event-navlink06:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-text02:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink07 {
+  color: #5ffffe;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: underline   none;
+}
+.halloween-event-navlink07:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-text04:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink08 {
+  color: #5ffffe;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: underline   none;
+}
+.halloween-event-navlink08:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink09 {
+  color: #5ffffe;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: underline   none;
+}
+.halloween-event-navlink09:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-navlink10 {
+  color: #5ffffe;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: underline   none;
+}
+.halloween-event-navlink10:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-text06 {
+  color: #ffffff;
+  transition: 0.3s;
+}
+.halloween-event-text06:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.halloween-event-bot {
+  flex: 0 0 auto;
+  width: 200px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  margin-top: auto;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.halloween-event-main {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.halloween-event-hero {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  padding: var(--dl-space-space-doubleunit);
+  z-index: 100;
+  max-width: 1110px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.halloween-event-container02 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.halloween-event-text07 {
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.halloween-event-text08 {
+  color: #ffffff;
+  font-size: 72px;
+}
+.halloween-event-text09 {
+  color: #ffffff;
+}
+.halloween-event-text10 {
+  color: #ffffff;
+}
+.halloween-event-text11 {
+  color: #ffffff;
+}
+.halloween-event-text12 {
+  color: #ffffff;
+}
+.halloween-event-text13 {
+  color: #ffffff;
+}
+.halloween-event-text14 {
+  color: #ffffff;
+}
+.halloween-event-text15 {
+  color: #ffffff;
+}
+.halloween-event-text16 {
+  color: #ffffff;
+}
+.halloween-event-text17 {
+  color: #28c9c7;
+  text-decoration: underline;
+}
+.halloween-event-text18 {
+  color: #ffffff;
+}
+.halloween-event-text19 {
+  color: #ffffff;
+}
+.halloween-event-turquoise-cirble {
+  top: 439px;
+  left: auto;
+  right: 430px;
+  width: 170px;
+  bottom: auto;
+  filter: blur(60px);
+  opacity: 0.6;
+  position: absolute;
+  object-fit: cover;
+}
+.halloween-event-purple-circle {
+  top: -100px;
+  left: auto;
+  right: -26px;
+  width: 400px;
+  bottom: auto;
+  filter: blur(60px);
+  opacity: 0.4;
+  position: absolute;
+  object-fit: cover;
+}
+.halloween-event-purple-circle1 {
+  top: -26px;
+  left: 204px;
+  width: 400px;
+  filter: blur(60px);
+  opacity: 0.4;
+  position: absolute;
+  object-fit: cover;
+}
+.halloween-event-turquoise-cirble1 {
+  top: 439px;
+  left: auto;
+  right: 430px;
+  width: 170px;
+  bottom: auto;
+  filter: blur(60px);
+  opacity: 0.6;
+  position: absolute;
+  object-fit: cover;
+}
+.halloween-event-feature-card {
+  width: 90%;
+  height: 350px;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.halloween-event-container03 {
+  left: 0px;
+  width: 30%;
+  bottom: -6px;
+  height: 218px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.halloween-event-text20 {
+  color: rgb(209, 216, 234);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.halloween-event-text21 {
+  color: #d1d8ea;
+}
+.halloween-event-text22 {
+  color: #d6b01c;
+}
+.halloween-event-text23 {
+  color: rgb(155, 147, 42);
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 500;
+  text-transform: none;
+  text-decoration: none;
+}
+.halloween-event-text24 {
+  color: #d1d8ea;
+}
+.halloween-event-container04 {
+  left: 0px;
+  right: 0px;
+  width: 30%;
+  bottom: -6px;
+  height: 218px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.halloween-event-text25 {
+  color: rgb(209, 216, 234);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.halloween-event-text26 {
+  color: #d1d8ea;
+}
+.halloween-event-text27 {
+  color: #d6b01c;
+}
+.halloween-event-text28 {
+  color: rgb(155, 147, 42);
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 500;
+  text-transform: none;
+  text-decoration: none;
+}
+.halloween-event-text29 {
+  color: #d1d8ea;
+}
+.halloween-event-container05 {
+  width: 341px;
+  height: 42px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.halloween-event-text30 {
+  color: rgb(209, 216, 234);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.halloween-event-feature-card1 {
+  width: 90%;
+  height: 350px;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.halloween-event-container06 {
+  left: 0px;
+  width: 30%;
+  bottom: -6px;
+  height: 218px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.halloween-event-text31 {
+  color: rgb(209, 216, 234);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.halloween-event-text32 {
+  color: #d1d8ea;
+}
+.halloween-event-text33 {
+  color: #d6b01c;
+}
+.halloween-event-text34 {
+  color: rgb(155, 147, 42);
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 500;
+  text-transform: none;
+  text-decoration: none;
+}
+.halloween-event-text35 {
+  color: #d1d8ea;
+}
+.halloween-event-container07 {
+  left: 0px;
+  right: 0px;
+  width: 30%;
+  bottom: -6px;
+  height: 218px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.halloween-event-text36 {
+  color: rgb(209, 216, 234);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.halloween-event-text37 {
+  color: #d1d8ea;
+}
+.halloween-event-text38 {
+  color: #d6b01c;
+}
+.halloween-event-text39 {
+  color: rgb(155, 147, 42);
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 500;
+  text-transform: none;
+  text-decoration: none;
+}
+.halloween-event-text40 {
+  color: #d1d8ea;
+}
+.halloween-event-container08 {
+  width: 341px;
+  height: 42px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.halloween-event-text41 {
+  color: rgb(209, 216, 234);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.halloween-event-feature-card2 {
+  width: 100%;
+  height: 513px;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  position: relative;
+  align-items: center;
+  padding-top: 79px;
+  flex-direction: row;
+  justify-content: center;
+}
+.halloween-event-container09 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.halloween-event-text42 {
+  color: rgb(255, 255, 255);
+  width: 80%;
+  font-size: 28px;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 800;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  text-transform: none;
+  text-decoration: none;
+}
+.halloween-event-link {
+  display: contents;
+}
+.halloween-event-text45 {
+  color: #13e3df;
+  width: 80%;
+  font-size: small;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+}
+.halloween-event-text45:hover {
+  color: #269b98;
+}
+.halloween-event-text46 {
+  font-size: 40px;
+  font-family: Inter;
+  font-weight: 800;
+  text-transform: none;
+  text-decoration: none;
+}
+.halloween-event-turquoise-cirble2 {
+  top: 439px;
+  left: auto;
+  right: 430px;
+  width: 170px;
+  bottom: auto;
+  filter: blur(60px);
+  opacity: 0.6;
+  position: absolute;
+  object-fit: cover;
+}
+.halloween-event-turquoise-cirble3 {
+  top: 439px;
+  left: auto;
+  right: 430px;
+  width: 170px;
+  bottom: auto;
+  filter: blur(60px);
+  opacity: 0.6;
+  position: absolute;
+  object-fit: cover;
+}
+@media(max-width: 1600px) {
+  .halloween-event-container {
+    border-color: var(--dl-color-gray-900);
+    border-width: 1px;
+  }
+  .halloween-event-navlink02 {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    text-decoration: underline;
+  }
+  .halloween-event-text07 {
+    color: rgb(255, 255, 255);
+  }
+  .halloween-event-text08 {
+    font-size: 72px;
+  }
+  .halloween-event-feature-card {
+    flex: initial;
+    width: 90%;
+    height: 350px;
+  }
+  .halloween-event-container05 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .halloween-event-text30 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .halloween-event-feature-card1 {
+    flex: initial;
+    width: 90%;
+    height: 350px;
+  }
+  .halloween-event-container08 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .halloween-event-text41 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .halloween-event-text45 {
+    color: #13e3df;
+    font-style: normal;
+    font-family: Montserrat;
+    font-weight: 500;
+    border-width: 0px;
+  }
+  .halloween-event-turquoise-cirble2 {
+    top: 623px;
+    right: 1160px;
+  }
+  .halloween-event-turquoise-cirble3 {
+    top: 623px;
+    right: 1160px;
+  }
+}
+@media(max-width: 1200px) {
+  .halloween-event-navlink {
+    color: #ffffff;
+  }
+  .halloween-event-navlink01 {
+    color: #ffffff;
+  }
+  .halloween-event-navlink02 {
+    color: #ffffff;
+  }
+  .halloween-event-navlink03 {
+    color: #ffffff;
+  }
+  .halloween-event-navlink04 {
+    color: #ffffff;
+  }
+  .halloween-event-text {
+    color: #ffffff;
+  }
+  .halloween-event-navlink05 {
+    color: #ffffff;
+  }
+  .halloween-event-text07 {
+    color: rgb(255, 255, 255);
+  }
+  .halloween-event-text08 {
+    font-size: 72px;
+  }
+  .halloween-event-feature-card {
+    height: 325px;
+  }
+  .halloween-event-text20 {
+    color: rgb(209, 216, 234);
+    font-weight: 600;
+  }
+  .halloween-event-text25 {
+    color: rgb(209, 216, 234);
+  }
+  .halloween-event-container05 {
+    top: 2px;
+    left: 441px;
+    width: 179px;
+    height: 54px;
+  }
+  .halloween-event-text30 {
+    color: rgb(209, 216, 234);
+    width: 333px;
+    height: 39px;
+    align-self: center;
+  }
+  .halloween-event-feature-card1 {
+    height: 325px;
+  }
+  .halloween-event-text31 {
+    color: rgb(209, 216, 234);
+    font-weight: 600;
+  }
+  .halloween-event-text36 {
+    color: rgb(209, 216, 234);
+  }
+  .halloween-event-container08 {
+    top: 2px;
+    left: 441px;
+    width: 179px;
+    height: 54px;
+  }
+  .halloween-event-text41 {
+    color: rgb(209, 216, 234);
+    width: 333px;
+    height: 39px;
+    align-self: center;
+  }
+  .halloween-event-feature-card2 {
+    height: 518px;
+    padding-top: 112px;
+  }
+  .halloween-event-text45 {
+    color: #13e3df;
+    text-align: center;
+  }
+}
+@media(max-width: 991px) {
+  .halloween-event-container01 {
+    display: none;
+  }
+  .halloween-event-hero {
+    height: auto;
+    flex-direction: column;
+  }
+  .halloween-event-container02 {
+    align-items: center;
+    margin-bottom: var(--dl-space-space-doubleunit);
+  }
+  .halloween-event-text07 {
+    text-align: center;
+  }
+  .halloween-event-text20 {
+    font-weight: 600;
+  }
+  .halloween-event-text25 {
+    font-weight: 600;
+  }
+  .halloween-event-text30 {
+    font-weight: 600;
+  }
+  .halloween-event-text31 {
+    font-weight: 600;
+  }
+  .halloween-event-text36 {
+    font-weight: 600;
+  }
+  .halloween-event-text41 {
+    font-weight: 600;
+  }
+  .halloween-event-turquoise-cirble2 {
+    visibility: hidden;
+  }
+  .halloween-event-turquoise-cirble3 {
+    visibility: hidden;
+  }
+}
+@media(max-width: 767px) {
+  .halloween-event-menu {
+    display: none;
+  }
+  .halloween-event-burger-menu {
+    display: block;
+  }
+  .halloween-event-text07 {
+    font-size: 50px;
+    text-align: center;
+  }
+  .halloween-event-feature-card {
+    height: 500px;
+    flex-direction: row;
+  }
+  .halloween-event-container03 {
+    flex-direction: column;
+  }
+  .halloween-event-container04 {
+    flex-direction: column;
+  }
+  .halloween-event-container05 {
+    flex-direction: column;
+  }
+  .halloween-event-feature-card1 {
+    height: 500px;
+    flex-direction: row;
+  }
+  .halloween-event-container06 {
+    flex-direction: column;
+  }
+  .halloween-event-container07 {
+    flex-direction: column;
+  }
+  .halloween-event-container08 {
+    flex-direction: column;
+  }
+  .halloween-event-feature-card2 {
+    flex-direction: row;
+  }
+}
+@media(max-width: 321px) {
+  .halloween-event-container01 {
+    display: none;
+  }
+  .halloween-event-bot {
+    width: 100%;
+  }
+  .halloween-event-text07 {
+    color: rgb(255, 255, 255);
+    width: 95%;
+  }
+  .halloween-event-text08 {
+    font-size: 72px;
+  }
+  .halloween-event-feature-card {
+    height: 600px;
+    font-size: 120;
+    flex-direction: row;
+  }
+  .halloween-event-container03 {
+    font-size: 30%;
+    flex-direction: column;
+  }
+  .halloween-event-container04 {
+    font-size: 30%;
+    flex-direction: column;
+  }
+  .halloween-event-container05 {
+    flex-direction: column;
+  }
+  .halloween-event-feature-card1 {
+    height: 600px;
+    font-size: 120;
+    flex-direction: row;
+  }
+  .halloween-event-container06 {
+    font-size: 30%;
+    flex-direction: column;
+  }
+  .halloween-event-container07 {
+    font-size: 30%;
+    flex-direction: column;
+  }
+  .halloween-event-container08 {
+    flex-direction: column;
+  }
+  .halloween-event-feature-card2 {
+    height: auto;
+  }
+  .halloween-event-container09 {
+    height: auto;
+  }
+  .halloween-event-text45 {
+    font-size: xx-small;
+    max-height: 50%;
+  }
+}
