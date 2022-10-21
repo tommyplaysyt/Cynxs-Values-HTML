@@ -133,11 +133,15 @@ const Update42 = (props) => {
         <div className="update42-container03">
           <h2 className="update42-text18">Sunshine Spider</h2>
           <span className="update42-text19 headline6">
-            Normal: | 0.01 Tokens
+            Normal: | &lt;1 Tokens
           </span>
-          <span className="update42-text20 headline6">Shiny: | 0.015</span>
-          <span className="update42-text21">Golden: | 0.03</span>
-          <span className="update42-text22 headline6">Rainbow: | 0.045</span>
+          <span className="update42-text20 headline6">
+            Shiny: | &lt;1 Tokens
+          </span>
+          <span className="update42-text21">Golden: | &lt;1 Tokens</span>
+          <span className="update42-text22 headline6">
+            Rainbow: | &lt;1 Tokens
+          </span>
         </div>
         <img
           alt="image"
@@ -145,7 +149,7 @@ const Update42 = (props) => {
           className="update42-turquoise-cirble2"
         />
         <div className="update42-container04">
-          <h2 className="update42-text23">Terrain Turtle</h2>
+          <h2 className="update42-text23">Moon Golem</h2>
           <span className="update42-text24 headline6">
             <span className="headline6">Normal: | 0.025 </span>
             <span className="headline6">Tokens</span>
@@ -175,25 +179,27 @@ const Update42 = (props) => {
       </div>
       <div className="update42-feature-card1">
         <div className="update42-container06">
-          <h2 className="update42-text33">Wavesurfer Whalefish</h2>
+          <h2 className="update42-text33">Astral Overseer</h2>
           <span className="update42-text34 headline6">
-            Normal: | 0.25 Tokens
+            Normal: | &lt;1 Tokens
           </span>
           <span className="update42-text35 headline6">
-            Shiny:  | 0.35 Tokens
+            Shiny:  | &lt;1 Tokens
           </span>
-          <span className="update42-text36">Golden: | 0.75 Tokens</span>
-          <span className="update42-text37 headline6">Rainbow: | 1 Tokens</span>
+          <span className="update42-text36">Golden: | &lt;1 Tokens</span>
+          <span className="update42-text37 headline6">
+            Rainbow: | &lt;1 Tokens
+          </span>
         </div>
         <div className="update42-container07">
-          <h2 className="update42-text38">Global Guard</h2>
+          <h2 className="update42-text38">Lunar Anti-Lander</h2>
           <span className="update42-text39 headline6">
-            Normal: 15-20 Tokens
+            Normal: 0.8-3 Tokens
           </span>
-          <span className="update42-text40 headline6">Shiny: 25-30 Tokens</span>
-          <span className="update42-text41">Golden: 15-30 Tokens</span>
+          <span className="update42-text40 headline6">Shiny: 4-8 Tokens</span>
+          <span className="update42-text41">Golden: 10-14 Tokens</span>
           <span className="update42-text42 headline6">
-            Rainbow: 75-100 Tokens
+            Rainbow: 20-30 Tokens
           </span>
         </div>
         <div className="update42-container08">
@@ -202,27 +208,27 @@ const Update42 = (props) => {
       </div>
       <div className="update42-feature-card2">
         <div className="update42-container09">
-          <h2 className="update42-text44">Magma Gamera</h2>
+          <h2 className="update42-text44">Full Moon Behemoth</h2>
           <span className="update42-text45 headline6">
-            Normal: | 0.25 Tokens
+            Normal: | 0.03 Tokens
           </span>
           <span className="update42-text46 headline6">
-            Shiny: | 0.35 Tokens
+            Shiny: | 0.09 Tokens
           </span>
-          <span className="update42-text47">Golden: | 0.25-1 Tokens</span>
+          <span className="update42-text47">Golden: | 0.25-0.75 Tokens</span>
           <span className="update42-text48 headline6">
-            Rainbow: | 1-5 Tokens
+            Rainbow: | 0.9-2 Tokens
           </span>
         </div>
         <div className="update42-container10">
-          <h2 className="update42-text49">Tsunami Army</h2>
+          <h2 className="update42-text49">Cosmic Crescent</h2>
           <span className="update42-text50 headline6">
-            Normal: | 3-7 Tokens
+            Normal: | 0.6-2.5 Tokens
           </span>
-          <span className="update42-text51 headline6">Shiny: | 7-9 Tokens</span>
-          <span className="update42-text52">Golden: | 10-15 Tokens</span>
+          <span className="update42-text51 headline6">Shiny: | 3-6 Tokens</span>
+          <span className="update42-text52">Golden: | 6-8 Tokens</span>
           <span className="update42-text53 headline6">
-            Rainbow: | 20-35 Tokens
+            Rainbow: | 8-10 Tokens
           </span>
         </div>
         <div className="update42-container11">
