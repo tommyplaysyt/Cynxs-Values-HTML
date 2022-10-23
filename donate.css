@@ -49,52 +49,52 @@
 .donate-navlink:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink1 {
+.donate-navlink01 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink1:hover {
+.donate-navlink01:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink2 {
+.donate-navlink02 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink2:hover {
+.donate-navlink02:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink3 {
+.donate-navlink03 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink3:hover {
+.donate-navlink03:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-text {
+.donate-navlink04 {
   color: rgb(12, 249, 245);
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
+.donate-navlink04:hover {
+  color: var(--dl-color-turquoise-default);
+}
 .donate-text:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-text01:hover {
-  color: var(--dl-color-turquoise-default);
-}
-.donate-navlink4 {
+.donate-navlink05 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink4:hover {
+.donate-navlink05:hover {
   color: var(--dl-color-turquoise-default);
 }
 .donate-container1 {
@@ -162,62 +162,62 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.donate-navlink5 {
+.donate-navlink06 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink5:hover {
+.donate-navlink06:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-text03:hover {
+.donate-text02:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink6 {
+.donate-navlink07 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink6:hover {
+.donate-navlink07:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-text05:hover {
+.donate-text04:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink7 {
+.donate-navlink08 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink7:hover {
+.donate-navlink08:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink8 {
+.donate-navlink09 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink8:hover {
+.donate-navlink09:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.donate-text06 {
+  color: #5ffffe;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: underline   none;
+}
+.donate-text06:hover {
   color: var(--dl-color-turquoise-default);
 }
 .donate-text07 {
-  color: #5ffffe;
-  transition: 0.3s;
-  margin-bottom: var(--dl-space-space-halfunit);
-  text-decoration: underline   none;
-}
-.donate-text07:hover {
-  color: var(--dl-color-turquoise-default);
-}
-.donate-text08 {
   color: #ffffff;
   transition: 0.3s;
 }
-.donate-text08:hover {
+.donate-text07:hover {
   color: var(--dl-color-turquoise-default);
 }
 .donate-bot {
@@ -283,15 +283,15 @@
   flex-direction: column;
   justify-content: center;
 }
-.donate-text09 {
+.donate-text08 {
   color: rgb(255, 255, 255);
   align-self: center;
   margin-bottom: var(--dl-space-space-doubleunit);
 }
-.donate-text10 {
+.donate-text09 {
   font-size: 72px;
 }
-.donate-text26 {
+.donate-text25 {
   font-size: 72px;
 }
 .donate-feature-card {
@@ -313,7 +313,7 @@
   align-items: center;
   flex-direction: column;
 }
-.donate-text31 {
+.donate-text30 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -327,7 +327,7 @@
 .donate-link {
   display: contents;
 }
-.donate-text34 {
+.donate-text33 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -337,10 +337,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.donate-text34:hover {
+.donate-text33:hover {
   color: #269b98;
 }
-.donate-text35 {
+.donate-text34 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -374,18 +374,18 @@
     border-color: var(--dl-color-gray-900);
     border-width: 1px;
   }
-  .donate-navlink2 {
+  .donate-navlink02 {
     color: rgb(255, 255, 255);
     font-family: Montserrat;
     text-decoration: underline;
   }
-  .donate-text09 {
+  .donate-text08 {
     color: rgb(255, 255, 255);
   }
-  .donate-text10 {
+  .donate-text09 {
     font-size: 72px;
   }
-  .donate-text34 {
+  .donate-text33 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -405,35 +405,35 @@
   .donate-navlink {
     color: #ffffff;
   }
-  .donate-navlink1 {
+  .donate-navlink01 {
     color: #ffffff;
   }
-  .donate-navlink2 {
+  .donate-navlink02 {
     color: #ffffff;
   }
-  .donate-navlink3 {
+  .donate-navlink03 {
+    color: #ffffff;
+  }
+  .donate-navlink04 {
     color: #ffffff;
   }
   .donate-text {
     color: #ffffff;
   }
-  .donate-text01 {
+  .donate-navlink05 {
     color: #ffffff;
   }
-  .donate-navlink4 {
-    color: #ffffff;
-  }
-  .donate-text09 {
+  .donate-text08 {
     color: rgb(255, 255, 255);
   }
-  .donate-text10 {
+  .donate-text09 {
     font-size: 72px;
   }
   .donate-feature-card {
     height: 518px;
     padding-top: 112px;
   }
-  .donate-text34 {
+  .donate-text33 {
     color: #13e3df;
     text-align: center;
   }
@@ -450,7 +450,7 @@
     align-items: center;
     margin-bottom: var(--dl-space-space-doubleunit);
   }
-  .donate-text09 {
+  .donate-text08 {
     text-align: center;
   }
   .donate-turquoise-cirble1 {
@@ -467,7 +467,7 @@
   .donate-burger-menu {
     display: block;
   }
-  .donate-text09 {
+  .donate-text08 {
     font-size: 50px;
     text-align: center;
   }
@@ -482,12 +482,12 @@
   .donate-bot {
     width: 100%;
   }
-  .donate-text09 {
+  .donate-text08 {
     color: rgb(255, 255, 255);
     width: 95%;
     height: 5000px;
   }
-  .donate-text10 {
+  .donate-text09 {
     font-size: 72px;
   }
   .donate-feature-card {
@@ -498,7 +498,7 @@
   .donate-container3 {
     height: auto;
   }
-  .donate-text34 {
+  .donate-text33 {
     font-size: xx-small;
     max-height: 50%;
   }
