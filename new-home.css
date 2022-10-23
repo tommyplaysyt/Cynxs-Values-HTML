@@ -204,13 +204,13 @@
 .new-home-navlink09:hover {
   color: var(--dl-color-turquoise-default);
 }
-.new-home-navlink10 {
+.new-home-text06 {
   color: rgb(95, 255, 254);
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.new-home-navlink10:hover {
+.new-home-text06:hover {
   color: var(--dl-color-turquoise-default);
 }
 .new-home-bot {
@@ -236,13 +236,13 @@
   flex-direction: row;
   justify-content: center;
 }
-.new-home-text06 {
+.new-home-text07 {
   color: rgb(255, 255, 255);
   text-align: center;
   font-family: Montserrat;
   margin-bottom: var(--dl-space-space-doubleunit);
 }
-.new-home-text07 {
+.new-home-text08 {
   font-size: 72px;
 }
 .new-home-main {
@@ -283,10 +283,10 @@
   flex-direction: column;
   justify-content: center;
 }
-.new-home-navlink11 {
+.new-home-navlink10 {
   display: contents;
 }
-.new-home-text18 {
+.new-home-text19 {
   color: rgb(19, 227, 223);
   width: 80%;
   font-size: small;
@@ -297,47 +297,44 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-home-text18:hover {
+.new-home-text19:hover {
+  color: #20a4a7;
+}
+.new-home-navlink11 {
+  display: contents;
+}
+.new-home-text22 {
+  color: rgb(19, 227, 223);
+  width: 80%;
+  font-size: small;
+  align-self: center;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+}
+.new-home-text22:hover {
+  color: #20a4a7;
+}
+.new-home-text25 {
+  color: rgb(19, 227, 223);
+  width: 80%;
+  font-size: small;
+  align-self: center;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Montserrat;
+  margin-bottom: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+}
+.new-home-text25:hover {
   color: #20a4a7;
 }
 .new-home-navlink12 {
   display: contents;
 }
-.new-home-text21 {
-  color: rgb(19, 227, 223);
-  width: 80%;
-  font-size: small;
-  align-self: center;
-  text-align: center;
-  transition: 0.3s;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-doubleunit);
-  text-decoration: none;
-}
-.new-home-text21:hover {
-  color: #20a4a7;
-}
-.new-home-navlink13 {
-  display: contents;
-}
-.new-home-text24 {
-  color: rgb(19, 227, 223);
-  width: 80%;
-  font-size: small;
-  align-self: center;
-  text-align: center;
-  transition: 0.3s;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-doubleunit);
-  text-decoration: none;
-}
-.new-home-text24:hover {
-  color: #20a4a7;
-}
-.new-home-navlink14 {
-  display: contents;
-}
-.new-home-text27 {
+.new-home-text28 {
   color: rgb(210, 227, 19);
   width: 80%;
   font-size: small;
@@ -348,13 +345,13 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-home-text27:hover {
+.new-home-text28:hover {
   color: #95a30f;
 }
-.new-home-navlink15 {
+.new-home-navlink13 {
   display: contents;
 }
-.new-home-text30 {
+.new-home-text31 {
   color: rgb(200, 129, 28);
   width: 80%;
   font-size: small;
@@ -365,13 +362,13 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-home-text30:hover {
+.new-home-text31:hover {
   color: #885715;
 }
-.new-home-navlink16 {
+.new-home-navlink14 {
   display: contents;
 }
-.new-home-text33 {
+.new-home-text34 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -382,13 +379,13 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-home-text33:hover {
+.new-home-text34:hover {
   color: #20a4a7;
 }
-.new-home-navlink17 {
+.new-home-navlink15 {
   display: contents;
 }
-.new-home-text36 {
+.new-home-text37 {
   color: rgb(19, 227, 223);
   width: 80%;
   font-size: small;
@@ -399,13 +396,13 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-home-text36:hover {
+.new-home-text37:hover {
   color: #20a4a7;
 }
-.new-home-navlink18 {
+.new-home-navlink16 {
   display: contents;
 }
-.new-home-text39 {
+.new-home-text40 {
   color: #5ee313;
   width: 80%;
   font-size: small;
@@ -416,7 +413,7 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-home-text39:hover {
+.new-home-text40:hover {
   color: #44a50c;
 }
 .new-home-feature-card1 {
@@ -430,7 +427,7 @@
   flex-direction: row;
   justify-content: center;
 }
-.new-home-text42 {
+.new-home-text43 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: small;
@@ -557,7 +554,7 @@
   flex-direction: row;
   justify-content: center;
 }
-.new-home-text45 {
+.new-home-text46 {
   color: #ffffff;
   width: 80%;
   font-size: small;
@@ -617,7 +614,7 @@
   align-items: center;
   flex-direction: column;
 }
-.new-home-text48 {
+.new-home-text49 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -631,7 +628,7 @@
 .new-home-link {
   display: contents;
 }
-.new-home-text51 {
+.new-home-text52 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -641,10 +638,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-home-text51:hover {
+.new-home-text52:hover {
   color: #269b98;
 }
-.new-home-text52 {
+.new-home-text53 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -679,14 +676,14 @@
     font-family: Montserrat;
     text-decoration: underline;
   }
-  .new-home-text06 {
+  .new-home-text07 {
     color: rgb(255, 255, 255);
     font-family: Montserrat;
   }
-  .new-home-text07 {
+  .new-home-text08 {
     font-size: 72px;
   }
-  .new-home-text18 {
+  .new-home-text19 {
     color: #13e3df;
     font-size: small;
     font-style: normal;
@@ -694,7 +691,7 @@
     font-weight: 500;
     border-width: 0px;
   }
-  .new-home-text21 {
+  .new-home-text22 {
     color: #13e3df;
     font-size: small;
     font-style: normal;
@@ -702,7 +699,7 @@
     font-weight: 500;
     border-width: 0px;
   }
-  .new-home-text24 {
+  .new-home-text25 {
     color: #13e3df;
     font-size: small;
     font-style: normal;
@@ -710,7 +707,7 @@
     font-weight: 500;
     border-width: 0px;
   }
-  .new-home-text27 {
+  .new-home-text28 {
     color: #13e3df;
     font-size: small;
     font-style: normal;
@@ -718,7 +715,7 @@
     font-weight: 500;
     border-width: 0px;
   }
-  .new-home-text30 {
+  .new-home-text31 {
     color: #13e3df;
     font-size: small;
     font-style: normal;
@@ -726,7 +723,7 @@
     font-weight: 500;
     border-width: 0px;
   }
-  .new-home-text33 {
+  .new-home-text34 {
     color: #13e3df;
     font-size: small;
     font-style: normal;
@@ -734,7 +731,7 @@
     font-weight: 500;
     border-width: 0px;
   }
-  .new-home-text36 {
+  .new-home-text37 {
     color: #13e3df;
     font-size: small;
     font-style: normal;
@@ -742,7 +739,7 @@
     font-weight: 500;
     border-width: 0px;
   }
-  .new-home-text39 {
+  .new-home-text40 {
     color: #5ee313;
     font-size: small;
     font-style: normal;
@@ -750,7 +747,7 @@
     font-weight: 500;
     border-width: 0px;
   }
-  .new-home-text42 {
+  .new-home-text43 {
     color: rgb(255, 255, 255);
     font-style: normal;
     font-family: Montserrat;
@@ -784,7 +781,7 @@
     bottom: -10px;
     position: absolute;
   }
-  .new-home-text45 {
+  .new-home-text46 {
     color: rgb(255, 255, 255);
     font-style: normal;
     font-family: Montserrat;
@@ -804,7 +801,7 @@
     left: -51px;
     position: absolute;
   }
-  .new-home-text51 {
+  .new-home-text52 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -846,15 +843,12 @@
     height: 518px;
     padding-top: 112px;
   }
-  .new-home-text06 {
+  .new-home-text07 {
     color: rgb(255, 255, 255);
     text-align: center;
   }
-  .new-home-text07 {
-    font-size: 72px;
-    font-family: Montserrat;
-  }
   .new-home-text08 {
+    font-size: 72px;
     font-family: Montserrat;
   }
   .new-home-text09 {
@@ -881,35 +875,38 @@
   .new-home-text16 {
     font-family: Montserrat;
   }
-  .new-home-text18 {
+  .new-home-text17 {
+    font-family: Montserrat;
+  }
+  .new-home-text19 {
     color: #13e3df;
     text-align: center;
   }
-  .new-home-text21 {
+  .new-home-text22 {
     color: #13e3df;
     text-align: center;
   }
-  .new-home-text24 {
+  .new-home-text25 {
     color: #13e3df;
     text-align: center;
   }
-  .new-home-text27 {
+  .new-home-text28 {
     color: #13e3df;
     text-align: center;
   }
-  .new-home-text30 {
+  .new-home-text31 {
     color: #13e3df;
     text-align: center;
   }
-  .new-home-text33 {
+  .new-home-text34 {
     color: #13e3df;
     text-align: center;
   }
-  .new-home-text36 {
+  .new-home-text37 {
     color: #13e3df;
     text-align: center;
   }
-  .new-home-text39 {
+  .new-home-text40 {
     color: #5ee313;
     text-align: center;
   }
@@ -917,7 +914,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .new-home-text42 {
+  .new-home-text43 {
     color: rgb(255, 255, 255);
     text-align: center;
   }
@@ -941,7 +938,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .new-home-text45 {
+  .new-home-text46 {
     color: rgb(255, 255, 255);
     text-align: center;
   }
@@ -953,7 +950,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .new-home-text51 {
+  .new-home-text52 {
     color: #13e3df;
     text-align: center;
   }
@@ -1014,7 +1011,7 @@
     width: 196px;
     height: 229px;
   }
-  .new-home-text18 {
+  .new-home-text19 {
     align-self: center;
   }
   .new-home-feature-card1 {
@@ -1040,40 +1037,40 @@
   .new-home-feature-card {
     height: 888px;
   }
-  .new-home-text06 {
+  .new-home-text07 {
     height: 689px;
     font-size: small;
   }
-  .new-home-text18 {
+  .new-home-text19 {
     align-items: center;
   }
-  .new-home-text21 {
+  .new-home-text22 {
     align-items: center;
   }
-  .new-home-text24 {
+  .new-home-text25 {
     align-self: center;
     align-items: center;
   }
-  .new-home-text27 {
+  .new-home-text28 {
     align-self: center;
     align-items: center;
   }
-  .new-home-text30 {
+  .new-home-text31 {
     align-items: center;
   }
-  .new-home-text33 {
+  .new-home-text34 {
     align-items: center;
   }
-  .new-home-text36 {
+  .new-home-text37 {
     align-items: center;
   }
-  .new-home-text39 {
+  .new-home-text40 {
     align-items: center;
   }
   .new-home-feature-card1 {
     height: 1450px;
   }
-  .new-home-text42 {
+  .new-home-text43 {
     height: 100%;
     font-size: xx-small;
   }
@@ -1095,7 +1092,7 @@
   .new-home-feature-card3 {
     height: 1450px;
   }
-  .new-home-text45 {
+  .new-home-text46 {
     height: 100%;
     font-size: xx-small;
   }
@@ -1105,10 +1102,10 @@
   .new-home-container7 {
     height: auto;
   }
-  .new-home-text48 {
+  .new-home-text49 {
     height: 100%;
   }
-  .new-home-text51 {
+  .new-home-text52 {
     height: 100%;
     font-size: xx-small;
   }

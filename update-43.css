@@ -47,52 +47,52 @@
 .update43-navlink:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink01 {
+.update43-navlink1 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.update43-navlink01:hover {
+.update43-navlink1:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink02 {
+.update43-navlink2 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.update43-navlink02:hover {
+.update43-navlink2:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink03 {
+.update43-navlink3 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.update43-navlink03:hover {
+.update43-navlink3:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink04 {
+.update43-text {
   color: rgb(12, 249, 245);
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.update43-navlink04:hover {
-  color: var(--dl-color-turquoise-default);
-}
 .update43-text:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink05 {
+.update43-text01:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.update43-navlink4 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.update43-navlink05:hover {
+.update43-navlink4:hover {
   color: var(--dl-color-turquoise-default);
 }
 .update43-container01 {
@@ -160,62 +160,62 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.update43-navlink06 {
+.update43-navlink5 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.update43-navlink06:hover {
+.update43-navlink5:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-text02:hover {
+.update43-text03:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink07 {
+.update43-navlink6 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.update43-navlink07:hover {
+.update43-navlink6:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-text04:hover {
+.update43-text05:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink08 {
+.update43-navlink7 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.update43-navlink08:hover {
+.update43-navlink7:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink09 {
+.update43-navlink8 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.update43-navlink09:hover {
+.update43-navlink8:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-navlink10 {
+.update43-text07 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.update43-navlink10:hover {
+.update43-text07:hover {
   color: var(--dl-color-turquoise-default);
 }
-.update43-text06 {
+.update43-text08 {
   color: #ffffff;
   transition: 0.3s;
 }
-.update43-text06:hover {
+.update43-text08:hover {
   color: var(--dl-color-turquoise-default);
 }
 .update43-bot {
@@ -255,11 +255,11 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.update43-text07 {
+.update43-text09 {
   color: rgb(255, 255, 255);
   margin-bottom: var(--dl-space-space-doubleunit);
 }
-.update43-text08 {
+.update43-text10 {
   font-size: 72px;
 }
 .update43-turquoise-cirble {
@@ -325,18 +325,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text18 {
+.update43-text20 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.update43-text19 {
+.update43-text21 {
   color: #d1d8ea;
 }
-.update43-text20 {
+.update43-text22 {
   color: #d6b01c;
 }
-.update43-text21 {
+.update43-text23 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -344,7 +344,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.update43-text22 {
+.update43-text24 {
   color: #d1d8ea;
 }
 .update43-turquoise-cirble2 {
@@ -371,15 +371,15 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text23 {
+.update43-text25 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.update43-text24 {
+.update43-text26 {
   color: rgb(209, 216, 234);
 }
-.update43-text25 {
+.update43-text27 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -387,10 +387,10 @@
   text-transform: none;
   text-decoration: none;
 }
-.update43-text26 {
+.update43-text28 {
   color: #d6b01c;
 }
-.update43-text29 {
+.update43-text31 {
   color: #d1d8ea;
 }
 .update43-container05 {
@@ -406,7 +406,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text30 {
+.update43-text32 {
   color: #d1d8ea;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
@@ -454,18 +454,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text31 {
+.update43-text33 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.update43-text32 {
+.update43-text34 {
   color: #d1d8ea;
 }
-.update43-text33 {
+.update43-text35 {
   color: #d6b01c;
 }
-.update43-text34 {
+.update43-text36 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -473,7 +473,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.update43-text35 {
+.update43-text37 {
   color: #d1d8ea;
 }
 .update43-container07 {
@@ -489,18 +489,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text36 {
+.update43-text38 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.update43-text37 {
+.update43-text39 {
   color: #d1d8ea;
 }
-.update43-text38 {
+.update43-text40 {
   color: #d6b01c;
 }
-.update43-text39 {
+.update43-text41 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -508,7 +508,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.update43-text40 {
+.update43-text42 {
   color: #d1d8ea;
 }
 .update43-container08 {
@@ -524,7 +524,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text41 {
+.update43-text43 {
   color: #d1d8ea;
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
@@ -550,18 +550,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text42 {
+.update43-text44 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.update43-text43 {
+.update43-text45 {
   color: #d1d8ea;
 }
-.update43-text44 {
+.update43-text46 {
   color: #d6b01c;
 }
-.update43-text45 {
+.update43-text47 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -569,7 +569,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.update43-text46 {
+.update43-text48 {
   color: #d1d8ea;
 }
 .update43-container10 {
@@ -585,18 +585,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text47 {
+.update43-text49 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.update43-text48 {
+.update43-text50 {
   color: #d1d8ea;
 }
-.update43-text49 {
+.update43-text51 {
   color: #d6b01c;
 }
-.update43-text50 {
+.update43-text52 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -604,7 +604,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.update43-text51 {
+.update43-text53 {
   color: #d1d8ea;
 }
 .update43-container11 {
@@ -620,7 +620,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.update43-text52 {
+.update43-text54 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
@@ -666,7 +666,7 @@
   align-items: center;
   flex-direction: column;
 }
-.update43-text53 {
+.update43-text55 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -680,7 +680,7 @@
 .update43-link {
   display: contents;
 }
-.update43-text56 {
+.update43-text58 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -690,10 +690,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.update43-text56:hover {
+.update43-text58:hover {
   color: #269b98;
 }
-.update43-text57 {
+.update43-text59 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -727,15 +727,15 @@
     border-color: var(--dl-color-gray-900);
     border-width: 1px;
   }
-  .update43-navlink02 {
+  .update43-navlink2 {
     color: rgb(255, 255, 255);
     font-family: Montserrat;
     text-decoration: underline;
   }
-  .update43-text07 {
+  .update43-text09 {
     color: rgb(255, 255, 255);
   }
-  .update43-text08 {
+  .update43-text10 {
     font-size: 72px;
   }
   .update43-feature-card {
@@ -743,24 +743,24 @@
     width: 90%;
     height: 350px;
   }
-  .update43-text18 {
+  .update43-text20 {
     color: rgb(209, 216, 234);
     font-weight: 600;
-  }
-  .update43-text21 {
-    color: rgb(155, 147, 42);
   }
   .update43-text23 {
+    color: rgb(155, 147, 42);
+  }
+  .update43-text25 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .update43-text25 {
+  .update43-text27 {
     color: rgb(155, 147, 42);
   }
-  .update43-text26 {
+  .update43-text28 {
     color: #d6b01c;
   }
-  .update43-text27 {
+  .update43-text29 {
     color: #d6b01c;
   }
   .update43-container05 {
@@ -770,7 +770,7 @@
     height: 111px;
     margin: auto;
   }
-  .update43-text30 {
+  .update43-text32 {
     top: 0px;
     left: 0px;
     color: rgb(209, 216, 234);
@@ -784,11 +784,11 @@
     width: 90%;
     height: 350px;
   }
-  .update43-text31 {
+  .update43-text33 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .update43-text34 {
+  .update43-text36 {
     color: rgb(155, 147, 42);
     font-size: 20px;
     font-family: Inter;
@@ -802,7 +802,7 @@
     right: 0px;
     margin: auto;
   }
-  .update43-text41 {
+  .update43-text43 {
     color: rgb(209, 216, 234);
     align-self: flex-start;
     font-weight: 600;
@@ -817,7 +817,7 @@
     right: 0px;
     margin: auto;
   }
-  .update43-text52 {
+  .update43-text54 {
     top: 0px;
     left: 0px;
     color: rgb(209, 216, 234);
@@ -826,7 +826,7 @@
     position: absolute;
     font-weight: 600;
   }
-  .update43-text56 {
+  .update43-text58 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -846,38 +846,38 @@
   .update43-navlink {
     color: #ffffff;
   }
-  .update43-navlink01 {
+  .update43-navlink1 {
     color: #ffffff;
   }
-  .update43-navlink02 {
+  .update43-navlink2 {
     color: #ffffff;
   }
-  .update43-navlink03 {
-    color: #ffffff;
-  }
-  .update43-navlink04 {
+  .update43-navlink3 {
     color: #ffffff;
   }
   .update43-text {
     color: #ffffff;
   }
-  .update43-navlink05 {
+  .update43-text01 {
     color: #ffffff;
   }
-  .update43-text07 {
+  .update43-navlink4 {
+    color: #ffffff;
+  }
+  .update43-text09 {
     color: rgb(255, 255, 255);
   }
-  .update43-text08 {
+  .update43-text10 {
     font-size: 72px;
   }
   .update43-feature-card {
     height: 325px;
   }
-  .update43-text18 {
+  .update43-text20 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .update43-text23 {
+  .update43-text25 {
     color: rgb(209, 216, 234);
   }
   .update43-container05 {
@@ -886,7 +886,7 @@
     width: 179px;
     height: 54px;
   }
-  .update43-text30 {
+  .update43-text32 {
     color: rgb(209, 216, 234);
     width: 333px;
     height: 39px;
@@ -895,10 +895,10 @@
   .update43-feature-card1 {
     height: 313px;
   }
-  .update43-text31 {
+  .update43-text33 {
     color: rgb(209, 216, 234);
   }
-  .update43-text36 {
+  .update43-text38 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
@@ -908,7 +908,7 @@
     width: 179px;
     height: 54px;
   }
-  .update43-text41 {
+  .update43-text43 {
     color: rgb(209, 216, 234);
     width: 277px;
     height: 38px;
@@ -918,10 +918,10 @@
   .update43-feature-card2 {
     height: 308px;
   }
-  .update43-text42 {
+  .update43-text44 {
     color: rgb(209, 216, 234);
   }
-  .update43-text47 {
+  .update43-text49 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
@@ -931,7 +931,7 @@
     width: 179px;
     height: 54px;
   }
-  .update43-text52 {
+  .update43-text54 {
     color: rgb(209, 216, 234);
     width: 333px;
     height: 39px;
@@ -941,7 +941,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .update43-text56 {
+  .update43-text58 {
     color: #13e3df;
     text-align: center;
   }
@@ -958,34 +958,34 @@
     align-items: center;
     margin-bottom: var(--dl-space-space-doubleunit);
   }
-  .update43-text07 {
+  .update43-text09 {
     text-align: center;
   }
-  .update43-text18 {
+  .update43-text20 {
     font-weight: 600;
   }
-  .update43-text23 {
+  .update43-text25 {
     font-weight: 600;
   }
-  .update43-text30 {
+  .update43-text32 {
     font-weight: 600;
   }
-  .update43-text31 {
+  .update43-text33 {
     font-weight: 600;
   }
-  .update43-text36 {
+  .update43-text38 {
     font-weight: 600;
   }
-  .update43-text41 {
+  .update43-text43 {
     font-weight: 600;
   }
-  .update43-text42 {
+  .update43-text44 {
     font-weight: 600;
   }
-  .update43-text47 {
+  .update43-text49 {
     font-weight: 600;
   }
-  .update43-text52 {
+  .update43-text54 {
     font-weight: 600;
   }
   .update43-turquoise-cirble4 {
@@ -1002,7 +1002,7 @@
   .update43-burger-menu {
     display: block;
   }
-  .update43-text07 {
+  .update43-text09 {
     font-size: 50px;
     text-align: center;
   }
@@ -1056,11 +1056,11 @@
   .update43-bot {
     width: 100%;
   }
-  .update43-text07 {
+  .update43-text09 {
     color: rgb(255, 255, 255);
     width: 95%;
   }
-  .update43-text08 {
+  .update43-text10 {
     font-size: 72px;
   }
   .update43-feature-card {
@@ -1117,7 +1117,7 @@
   .update43-container12 {
     height: auto;
   }
-  .update43-text56 {
+  .update43-text58 {
     font-size: xx-small;
     max-height: 50%;
   }

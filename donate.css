@@ -49,52 +49,52 @@
 .donate-navlink:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink01 {
+.donate-navlink1 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink01:hover {
+.donate-navlink1:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink02 {
+.donate-navlink2 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink02:hover {
+.donate-navlink2:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink03 {
+.donate-navlink3 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink03:hover {
+.donate-navlink3:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink04 {
+.donate-text {
   color: rgb(12, 249, 245);
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink04:hover {
-  color: var(--dl-color-turquoise-default);
-}
 .donate-text:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink05 {
+.donate-text01:hover {
+  color: var(--dl-color-turquoise-default);
+}
+.donate-navlink4 {
   color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
 }
-.donate-navlink05:hover {
+.donate-navlink4:hover {
   color: var(--dl-color-turquoise-default);
 }
 .donate-container1 {
@@ -162,62 +162,62 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.donate-navlink06 {
+.donate-navlink5 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink06:hover {
+.donate-navlink5:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-text02:hover {
+.donate-text03:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink07 {
+.donate-navlink6 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink07:hover {
+.donate-navlink6:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-text04:hover {
+.donate-text05:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink08 {
+.donate-navlink7 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink08:hover {
+.donate-navlink7:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink09 {
+.donate-navlink8 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink09:hover {
+.donate-navlink8:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-navlink10 {
+.donate-text07 {
   color: #5ffffe;
   transition: 0.3s;
   margin-bottom: var(--dl-space-space-halfunit);
   text-decoration: underline   none;
 }
-.donate-navlink10:hover {
+.donate-text07:hover {
   color: var(--dl-color-turquoise-default);
 }
-.donate-text06 {
+.donate-text08 {
   color: #ffffff;
   transition: 0.3s;
 }
-.donate-text06:hover {
+.donate-text08:hover {
   color: var(--dl-color-turquoise-default);
 }
 .donate-bot {
@@ -283,15 +283,15 @@
   flex-direction: column;
   justify-content: center;
 }
-.donate-text07 {
+.donate-text09 {
   color: rgb(255, 255, 255);
   align-self: center;
   margin-bottom: var(--dl-space-space-doubleunit);
 }
-.donate-text08 {
+.donate-text10 {
   font-size: 72px;
 }
-.donate-text24 {
+.donate-text26 {
   font-size: 72px;
 }
 .donate-feature-card {
@@ -313,7 +313,7 @@
   align-items: center;
   flex-direction: column;
 }
-.donate-text29 {
+.donate-text31 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -327,7 +327,7 @@
 .donate-link {
   display: contents;
 }
-.donate-text32 {
+.donate-text34 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -337,10 +337,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.donate-text32:hover {
+.donate-text34:hover {
   color: #269b98;
 }
-.donate-text33 {
+.donate-text35 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -374,18 +374,18 @@
     border-color: var(--dl-color-gray-900);
     border-width: 1px;
   }
-  .donate-navlink02 {
+  .donate-navlink2 {
     color: rgb(255, 255, 255);
     font-family: Montserrat;
     text-decoration: underline;
   }
-  .donate-text07 {
+  .donate-text09 {
     color: rgb(255, 255, 255);
   }
-  .donate-text08 {
+  .donate-text10 {
     font-size: 72px;
   }
-  .donate-text32 {
+  .donate-text34 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -405,35 +405,35 @@
   .donate-navlink {
     color: #ffffff;
   }
-  .donate-navlink01 {
+  .donate-navlink1 {
     color: #ffffff;
   }
-  .donate-navlink02 {
+  .donate-navlink2 {
     color: #ffffff;
   }
-  .donate-navlink03 {
-    color: #ffffff;
-  }
-  .donate-navlink04 {
+  .donate-navlink3 {
     color: #ffffff;
   }
   .donate-text {
     color: #ffffff;
   }
-  .donate-navlink05 {
+  .donate-text01 {
     color: #ffffff;
   }
-  .donate-text07 {
+  .donate-navlink4 {
+    color: #ffffff;
+  }
+  .donate-text09 {
     color: rgb(255, 255, 255);
   }
-  .donate-text08 {
+  .donate-text10 {
     font-size: 72px;
   }
   .donate-feature-card {
     height: 518px;
     padding-top: 112px;
   }
-  .donate-text32 {
+  .donate-text34 {
     color: #13e3df;
     text-align: center;
   }
@@ -450,7 +450,7 @@
     align-items: center;
     margin-bottom: var(--dl-space-space-doubleunit);
   }
-  .donate-text07 {
+  .donate-text09 {
     text-align: center;
   }
   .donate-turquoise-cirble1 {
@@ -467,7 +467,7 @@
   .donate-burger-menu {
     display: block;
   }
-  .donate-text07 {
+  .donate-text09 {
     font-size: 50px;
     text-align: center;
   }
@@ -482,12 +482,12 @@
   .donate-bot {
     width: 100%;
   }
-  .donate-text07 {
+  .donate-text09 {
     color: rgb(255, 255, 255);
     width: 95%;
     height: 5000px;
   }
-  .donate-text08 {
+  .donate-text10 {
     font-size: 72px;
   }
   .donate-feature-card {
@@ -498,7 +498,7 @@
   .donate-container3 {
     height: auto;
   }
-  .donate-text32 {
+  .donate-text34 {
     font-size: xx-small;
     max-height: 50%;
   }
