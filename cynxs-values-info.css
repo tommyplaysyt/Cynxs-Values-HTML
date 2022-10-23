@@ -291,7 +291,7 @@
 .cynxs-values-info-text09 {
   font-size: 72px;
 }
-.cynxs-values-info-text28 {
+.cynxs-values-info-text39 {
   font-size: 72px;
 }
 .cynxs-values-info-feature-card {
@@ -313,7 +313,7 @@
   align-items: center;
   flex-direction: column;
 }
-.cynxs-values-info-text36 {
+.cynxs-values-info-text47 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -327,7 +327,7 @@
 .cynxs-values-info-link {
   display: contents;
 }
-.cynxs-values-info-text39 {
+.cynxs-values-info-text50 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -337,10 +337,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.cynxs-values-info-text39:hover {
+.cynxs-values-info-text50:hover {
   color: #269b98;
 }
-.cynxs-values-info-text40 {
+.cynxs-values-info-text51 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -379,6 +379,9 @@
     font-family: Montserrat;
     text-decoration: underline;
   }
+  .cynxs-values-info-main {
+    height: 1776px;
+  }
   .cynxs-values-info-text08 {
     color: rgb(255, 255, 255);
   }
@@ -386,6 +389,17 @@
     font-size: 72px;
   }
   .cynxs-values-info-text39 {
+    font-size: 72px;
+  }
+  .cynxs-values-info-text47 {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-family: Inter;
+    font-weight: 800;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .cynxs-values-info-text50 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -433,7 +447,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .cynxs-values-info-text39 {
+  .cynxs-values-info-text50 {
     color: #13e3df;
     text-align: center;
   }
@@ -498,7 +512,7 @@
   .cynxs-values-info-container3 {
     height: auto;
   }
-  .cynxs-values-info-text39 {
+  .cynxs-values-info-text50 {
     font-size: xx-small;
     max-height: 50%;
   }
