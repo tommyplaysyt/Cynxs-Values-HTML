@@ -75,7 +75,7 @@
   color: var(--dl-color-turquoise-default);
 }
 .new-home-navlink04 {
-  color: rgb(12, 249, 245);
+  color: #0cf9f5;
   transition: 0.3s;
   margin-right: var(--dl-space-space-doubleunit);
   text-decoration: underline;
@@ -658,7 +658,6 @@
 }
 @media(max-width: 1600px) {
   .new-home-navlink02 {
-    color: rgb(255, 255, 255);
     font-family: Montserrat;
     text-decoration: underline;
   }
@@ -805,25 +804,7 @@
   }
 }
 @media(max-width: 1200px) {
-  .new-home-navlink {
-    color: #ffffff;
-  }
-  .new-home-navlink01 {
-    color: #ffffff;
-  }
-  .new-home-navlink02 {
-    color: #ffffff;
-  }
-  .new-home-navlink03 {
-    color: #ffffff;
-  }
-  .new-home-navlink04 {
-    color: #ffffff;
-  }
   .new-home-text {
-    color: #ffffff;
-  }
-  .new-home-navlink05 {
     color: #ffffff;
   }
   .new-home-feature-card {
