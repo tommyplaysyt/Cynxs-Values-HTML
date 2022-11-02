@@ -500,7 +500,7 @@
 .new-update-text41 {
   color: rgb(107, 224, 29);
 }
-.new-update-text44 {
+.new-update-text46 {
   color: rgb(209, 216, 234);
   align-self: flex-start;
   font-weight: 600;
@@ -527,18 +527,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.new-update-text45 {
+.new-update-text47 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.new-update-text46 {
+.new-update-text48 {
   color: #d1d8ea;
 }
-.new-update-text47 {
+.new-update-text49 {
   color: #d6b01c;
 }
-.new-update-text48 {
+.new-update-text50 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -546,7 +546,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.new-update-text49 {
+.new-update-text51 {
   color: rgb(107, 224, 29);
 }
 .new-update-container08 {
@@ -562,18 +562,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.new-update-text52 {
+.new-update-text54 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.new-update-text53 {
+.new-update-text55 {
   color: #d1d8ea;
 }
-.new-update-text54 {
+.new-update-text56 {
   color: #d6b01c;
 }
-.new-update-text55 {
+.new-update-text57 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -581,7 +581,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.new-update-text56 {
+.new-update-text58 {
   color: rgb(107, 224, 29);
   font-size: 20px;
   font-family: Inter;
@@ -611,7 +611,7 @@
   position: absolute;
   object-fit: cover;
 }
-.new-update-text57 {
+.new-update-text59 {
   color: rgb(209, 216, 234);
   align-self: flex-start;
   font-weight: 600;
@@ -636,7 +636,7 @@
   align-items: center;
   flex-direction: column;
 }
-.new-update-text58 {
+.new-update-text60 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -650,7 +650,7 @@
 .new-update-link {
   display: contents;
 }
-.new-update-text61 {
+.new-update-text63 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -660,10 +660,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-update-text61:hover {
+.new-update-text63:hover {
   color: #269b98;
 }
-.new-update-text62 {
+.new-update-text64 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -759,7 +759,7 @@
     text-transform: none;
     text-decoration: none;
   }
-  .new-update-text44 {
+  .new-update-text46 {
     top: 0px;
     left: 0px;
     color: rgb(209, 216, 234);
@@ -772,7 +772,7 @@
     width: 90%;
     height: 350px;
   }
-  .new-update-text57 {
+  .new-update-text59 {
     top: 0px;
     left: 0px;
     color: rgb(209, 216, 234);
@@ -781,7 +781,7 @@
     position: absolute;
     font-weight: 600;
   }
-  .new-update-text61 {
+  .new-update-text63 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -851,7 +851,7 @@
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .new-update-text44 {
+  .new-update-text46 {
     color: rgb(209, 216, 234);
     width: 333px;
     height: 39px;
@@ -860,14 +860,14 @@
   .new-update-feature-card2 {
     height: 308px;
   }
-  .new-update-text45 {
+  .new-update-text47 {
     color: rgb(209, 216, 234);
   }
-  .new-update-text52 {
+  .new-update-text54 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .new-update-text57 {
+  .new-update-text59 {
     color: rgb(209, 216, 234);
     width: 333px;
     height: 39px;
@@ -877,7 +877,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .new-update-text61 {
+  .new-update-text63 {
     color: #13e3df;
     text-align: center;
   }
@@ -912,16 +912,16 @@
   .new-update-text37 {
     font-weight: 600;
   }
-  .new-update-text44 {
+  .new-update-text46 {
     font-weight: 600;
   }
-  .new-update-text45 {
+  .new-update-text47 {
     font-weight: 600;
   }
-  .new-update-text52 {
+  .new-update-text54 {
     font-weight: 600;
   }
-  .new-update-text57 {
+  .new-update-text59 {
     font-weight: 600;
   }
   .new-update-turquoise-cirble4 {
@@ -1035,7 +1035,7 @@
   .new-update-container09 {
     height: auto;
   }
-  .new-update-text61 {
+  .new-update-text63 {
     font-size: xx-small;
     max-height: 50%;
   }
