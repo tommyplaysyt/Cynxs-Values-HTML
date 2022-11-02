@@ -355,7 +355,7 @@
   display: contents;
 }
 .new-home-text31 {
-  color: rgb(200, 129, 28);
+  color: #e313be;
   width: 80%;
   font-size: small;
   align-self: center;
@@ -366,7 +366,7 @@
   text-decoration: none;
 }
 .new-home-text31:hover {
-  color: #885715;
+  color: #10329d;
 }
 .new-home-navlink15 {
   display: contents;
@@ -1044,6 +1044,7 @@
     align-items: center;
   }
   .new-home-text31 {
+    align-self: center;
     align-items: center;
   }
   .new-home-text34 {
