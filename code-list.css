@@ -293,7 +293,7 @@
 }
 .code-list-feature-card {
   width: 100%;
-  height: 513px;
+  height: 558px;
   display: flex;
   padding: var(--dl-space-space-unit);
   position: relative;
@@ -384,6 +384,9 @@
   }
   .code-list-text09 {
     font-size: 72px;
+  }
+  .code-list-feature-card {
+    height: 557px;
   }
   .code-list-text59 {
     color: rgb(255, 255, 255);
@@ -499,15 +502,16 @@
     font-size: 72px;
   }
   .code-list-feature-card {
-    height: 4000px;
-    position: unset;
-    visibility: hidden;
+    height: 250%;
   }
   .code-list-container3 {
     height: auto;
   }
+  .code-list-text59 {
+    height: 100%;
+  }
   .code-list-text62 {
+    height: 100%;
     font-size: xx-small;
-    max-height: 50%;
   }
 }

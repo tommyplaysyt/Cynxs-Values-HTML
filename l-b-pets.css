@@ -1028,7 +1028,7 @@
 }
 .l-b-pets-feature-card6 {
   width: 100%;
-  height: 513px;
+  height: 558px;
   display: flex;
   padding: var(--dl-space-space-unit);
   position: relative;
@@ -1216,6 +1216,17 @@
     margin: auto;
     position: absolute;
     font-weight: 600;
+  }
+  .l-b-pets-feature-card6 {
+    height: 557px;
+  }
+  .l-b-pets-text112 {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-family: Inter;
+    font-weight: 800;
+    text-transform: none;
+    text-decoration: none;
   }
   .l-b-pets-text115 {
     color: #13e3df;
@@ -1747,13 +1758,16 @@
     flex-direction: column;
   }
   .l-b-pets-feature-card6 {
-    height: auto;
+    height: 250%;
   }
   .l-b-pets-container25 {
     height: auto;
   }
+  .l-b-pets-text112 {
+    height: 100%;
+  }
   .l-b-pets-text115 {
+    height: 100%;
     font-size: xx-small;
-    max-height: 50%;
   }
 }

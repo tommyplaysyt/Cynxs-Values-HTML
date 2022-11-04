@@ -296,7 +296,7 @@
 }
 .cynxs-values-info-feature-card {
   width: 100%;
-  height: 513px;
+  height: 558px;
   display: flex;
   padding: var(--dl-space-space-unit);
   position: relative;
@@ -390,6 +390,9 @@
   }
   .cynxs-values-info-text39 {
     font-size: 72px;
+  }
+  .cynxs-values-info-feature-card {
+    height: 557px;
   }
   .cynxs-values-info-text47 {
     color: rgb(255, 255, 255);
@@ -505,15 +508,16 @@
     font-size: 72px;
   }
   .cynxs-values-info-feature-card {
-    height: 4000px;
-    position: unset;
-    visibility: hidden;
+    height: 250%;
   }
   .cynxs-values-info-container3 {
     height: auto;
   }
+  .cynxs-values-info-text47 {
+    height: 100%;
+  }
   .cynxs-values-info-text50 {
+    height: 100%;
     font-size: xx-small;
-    max-height: 50%;
   }
 }
