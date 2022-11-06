@@ -381,18 +381,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.misc-text40 {
+.misc-text38 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.misc-text41 {
+.misc-text39 {
   color: #d1d8ea;
 }
-.misc-text42 {
+.misc-text40 {
   color: #d6b01c;
 }
-.misc-text43 {
+.misc-text41 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -400,10 +400,10 @@
   text-transform: none;
   text-decoration: none;
 }
-.misc-text44 {
+.misc-text42 {
   color: #d1d8ea;
 }
-.misc-text45 {
+.misc-text43 {
   color: rgb(209, 216, 234);
 }
 .misc-feature-card1 {
@@ -425,7 +425,7 @@
   align-items: center;
   flex-direction: column;
 }
-.misc-text50 {
+.misc-text46 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -439,7 +439,7 @@
 .misc-link {
   display: contents;
 }
-.misc-text53 {
+.misc-text49 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -449,10 +449,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.misc-text53:hover {
+.misc-text49:hover {
   color: #269b98;
 }
-.misc-text54 {
+.misc-text50 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -517,7 +517,7 @@
   .misc-feature-card1 {
     height: 557px;
   }
-  .misc-text50 {
+  .misc-text46 {
     color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: Inter;
@@ -525,7 +525,7 @@
     text-transform: none;
     text-decoration: none;
   }
-  .misc-text53 {
+  .misc-text49 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -579,10 +579,10 @@
   .misc-text30 {
     color: rgb(209, 216, 234);
   }
-  .misc-text40 {
+  .misc-text38 {
     color: rgb(209, 216, 234);
   }
-  .misc-text43 {
+  .misc-text41 {
     color: rgb(155, 147, 42);
     font-size: 20px;
     font-family: Inter;
@@ -594,7 +594,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .misc-text53 {
+  .misc-text49 {
     color: #13e3df;
     text-align: center;
   }
@@ -620,7 +620,7 @@
   .misc-text30 {
     font-weight: 600;
   }
-  .misc-text40 {
+  .misc-text38 {
     font-weight: 600;
   }
   .misc-turquoise-cirble1 {
@@ -695,10 +695,10 @@
   .misc-container6 {
     height: auto;
   }
-  .misc-text50 {
+  .misc-text46 {
     height: 100%;
   }
-  .misc-text53 {
+  .misc-text49 {
     height: 100%;
     font-size: xx-small;
   }
