@@ -83,10 +83,6 @@
 .maintenance-text11 {
   color: #ffffff;
 }
-.maintenance-link {
-  color: #23e2d9;
-  text-decoration: underline;
-}
 .maintenance-text12 {
   color: #ffffff;
 }
@@ -120,7 +116,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.maintenance-link1 {
+.maintenance-link {
   display: contents;
 }
 .maintenance-text19 {
@@ -237,10 +233,6 @@
   }
   .maintenance-text11 {
     color: #ffffff;
-  }
-  .maintenance-link {
-    color: #16ead7;
-    text-decoration: underline;
   }
   .maintenance-text12 {
     color: #ffffff;
