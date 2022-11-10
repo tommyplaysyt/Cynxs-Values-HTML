@@ -1371,7 +1371,7 @@
     text-align: center;
   }
 }
-@media(max-width: 991px) {
+@media(max-width: 1024px) {
   .l-b-pets-container01 {
     display: none;
   }

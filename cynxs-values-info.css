@@ -304,13 +304,13 @@
   justify-content: center;
 }
 .cynxs-values-info-image {
-  width: 188px;
-  height: 144px;
+  width: 235px;
+  height: 149px;
   object-fit: cover;
 }
 .cynxs-values-info-image1 {
-  width: 292px;
-  height: 149px;
+  width: 188px;
+  height: 144px;
   object-fit: cover;
 }
 .cynxs-values-info-feature-card {
@@ -474,7 +474,7 @@
     text-align: center;
   }
 }
-@media(max-width: 991px) {
+@media(max-width: 1024px) {
   .cynxs-values-info-container1 {
     display: none;
   }

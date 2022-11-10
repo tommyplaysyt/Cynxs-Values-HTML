@@ -823,7 +823,7 @@
     text-align: center;
   }
 }
-@media(max-width: 991px) {
+@media(max-width: 1024px) {
   .new-home-container1 {
     display: none;
   }

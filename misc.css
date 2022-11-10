@@ -599,7 +599,7 @@
     text-align: center;
   }
 }
-@media(max-width: 991px) {
+@media(max-width: 1024px) {
   .misc-container1 {
     display: none;
   }

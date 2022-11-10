@@ -663,7 +663,7 @@
     text-align: center;
   }
 }
-@media(max-width: 991px) {
+@media(max-width: 1024px) {
   .event-egg-container1 {
     display: none;
   }

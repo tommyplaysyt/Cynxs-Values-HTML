@@ -476,7 +476,7 @@
 .home-icon16:hover {
   fill: var(--dl-color-orange-default);
 }
-@media(max-width: 991px) {
+@media(max-width: 1024px) {
   .home-hero {
     height: auto;
     flex-direction: column;
