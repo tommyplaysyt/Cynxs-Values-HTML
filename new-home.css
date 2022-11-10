@@ -54,7 +54,7 @@
   height: 58px;
   font-size: 20px;
   font-style: normal;
-  margin-top: 45px;
+  margin-top: 55px;
   transition: 0.3s;
   font-family: Inter;
   font-weight: 700;
@@ -75,7 +75,7 @@
   height: 58px;
   font-size: 20px;
   font-style: normal;
-  margin-top: 45px;
+  margin-top: 55px;
   transition: 0.3s;
   font-family: Inter;
   font-weight: 700;
@@ -96,7 +96,7 @@
   height: 58px;
   font-size: 20px;
   font-style: normal;
-  margin-top: 45px;
+  margin-top: 55px;
   transition: 0.3s;
   font-family: Inter;
   font-weight: 700;
@@ -117,7 +117,7 @@
   height: 58px;
   font-size: 20px;
   font-style: normal;
-  margin-top: 45px;
+  margin-top: 55px;
   transition: 0.3s;
   font-family: Inter;
   font-weight: 700;
@@ -138,7 +138,7 @@
   height: 58px;
   font-size: 20px;
   font-style: normal;
-  margin-top: 45px;
+  margin-top: 55px;
   transition: 0.3s;
   font-family: Inter;
   font-weight: 700;
@@ -152,13 +152,6 @@
 }
 .new-home-navlink04:hover {
   color: #489a17;
-}
-.new-home-image {
-  width: 76px;
-  height: 64px;
-  margin-top: 45px;
-  object-fit: cover;
-  margin-right: 15px;
 }
 .new-home-container2 {
   border: 2px dashed rgba(120, 120, 120, 0.4);
