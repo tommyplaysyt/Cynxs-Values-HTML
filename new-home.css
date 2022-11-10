@@ -233,8 +233,13 @@
   padding-top: 79px;
   border-color: var(--dl-color-gray-900);
   border-width: 0px;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
+}
+.new-home-image {
+  width: 121px;
+  height: 116px;
+  object-fit: cover;
 }
 .new-home-text07 {
   text-align: center;
