@@ -315,10 +315,11 @@
   justify-content: center;
 }
 .new-update-container03 {
-  left: 15%;
+  left: 25%;
   width: 30%;
   bottom: -6px;
   height: 218px;
+  margin: auto;
   display: flex;
   position: absolute;
   align-items: flex-start;
@@ -386,7 +387,7 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .new-update-container04 {
-  left: 50%;
+  left: 45%;
   right: 0px;
   width: 30%;
   bottom: -6px;
@@ -433,7 +434,7 @@
   justify-content: center;
 }
 .new-update-container05 {
-  left: 15%;
+  left: 25%;
   width: 30%;
   bottom: -6px;
   height: 218px;
@@ -466,7 +467,7 @@
   color: #6be01d;
 }
 .new-update-container06 {
-  left: 50%;
+  left: 45%;
   right: 0px;
   width: 30%;
   bottom: -6px;
@@ -517,7 +518,7 @@
   justify-content: center;
 }
 .new-update-container07 {
-  left: 15%;
+  left: 25%;
   width: 30%;
   bottom: -6px;
   height: 218px;
@@ -550,7 +551,7 @@
   color: rgb(107, 224, 29);
 }
 .new-update-container08 {
-  left: 50%;
+  left: 45%;
   right: 0px;
   width: 30%;
   bottom: -6px;
