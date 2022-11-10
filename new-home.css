@@ -281,28 +281,6 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.new-home-navlink09 {
-  top: 12px;
-  left: 12px;
-  color: rgb(33, 215, 226);
-  width: 180px;
-  height: 58px;
-  position: absolute;
-  font-size: 20px;
-  font-style: normal;
-  transition: 0.3s;
-  font-family: Inter;
-  font-weight: 700;
-  border-color: #21d7e2;
-  border-style: inset;
-  border-width: 6px;
-  text-transform: none;
-  text-decoration: none;
-  background-image: linear-gradient(135deg, rgb(13, 62, 68) 0%, rgb(15, 81, 77) 100%);
-}
-.new-home-navlink09:hover {
-  color: #1baab3;
-}
 .new-home-feature-card {
   width: 100%;
   height: 655px;
@@ -410,7 +388,7 @@
   align-items: flex-start;
   justify-content: center;
 }
-.new-home-navlink10 {
+.new-home-navlink09 {
   color: rgb(33, 215, 226);
   font-size: 35px;
   font-style: normal;
@@ -431,10 +409,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(13, 62, 68) 0%, rgb(15, 81, 77) 100%);
 }
-.new-home-navlink10:hover {
+.new-home-navlink09:hover {
   color: #1baab3;
 }
-.new-home-navlink11 {
+.new-home-navlink10 {
   color: rgb(33, 215, 226);
   font-size: 35px;
   font-style: normal;
@@ -455,10 +433,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(13, 62, 68) 0%, rgb(15, 81, 77) 100%);
 }
-.new-home-navlink11:hover {
+.new-home-navlink10:hover {
   color: #1baab3;
 }
-.new-home-navlink12 {
+.new-home-navlink11 {
   color: rgb(210, 227, 19);
   font-size: 35px;
   font-style: normal;
@@ -477,10 +455,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(36, 38, 8) 0.00%,rgb(71, 81, 15) 100.00%);
 }
-.new-home-navlink12:hover {
+.new-home-navlink11:hover {
   color: #97a40f;
 }
-.new-home-navlink13 {
+.new-home-navlink12 {
   color: #378aec;
   font-size: 35px;
   font-style: normal;
@@ -499,10 +477,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 28, 38) 0.00%,rgb(15, 53, 81) 100.00%);
 }
-.new-home-navlink13:hover {
+.new-home-navlink12:hover {
   color: #2a67af;
 }
-.new-home-navlink14 {
+.new-home-navlink13 {
   color: #6ae221;
   font-size: 35px;
   font-style: normal;
@@ -521,10 +499,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 38, 15) 0.00%,rgb(15, 81, 21) 100.00%);
 }
-.new-home-navlink14:hover {
+.new-home-navlink13:hover {
   color: #489a17;
 }
-.new-home-navlink15 {
+.new-home-navlink14 {
   color: rgb(227, 19, 190);
   font-size: 35px;
   font-style: normal;
@@ -543,10 +521,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(45, 8, 39) 0.00%,rgb(102, 16, 86) 100.00%);
 }
-.new-home-navlink15:hover {
+.new-home-navlink14:hover {
   color: #960d7e;
 }
-.new-home-navlink16 {
+.new-home-navlink15 {
   color: #dae221;
   font-size: 35px;
   font-style: normal;
@@ -565,10 +543,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(62, 68, 13) 0.00%,rgb(95, 102, 16) 100.00%);
 }
-.new-home-navlink16:hover {
+.new-home-navlink15:hover {
   color: #a8ad1c;
 }
-.new-home-navlink17 {
+.new-home-navlink16 {
   color: #21d7e2;
   font-size: 35px;
   font-style: normal;
@@ -587,10 +565,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(13, 62, 68) 0.00%,rgb(15, 81, 77) 100.00%);
 }
-.new-home-navlink17:hover {
+.new-home-navlink16:hover {
   color: #1baab3;
 }
-.new-home-navlink18 {
+.new-home-navlink17 {
   color: #6ae221;
   font-size: 35px;
   font-style: normal;
@@ -609,7 +587,7 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 38, 15) 0.00%,rgb(15, 81, 21) 100.00%);
 }
-.new-home-navlink18:hover {
+.new-home-navlink17:hover {
   color: #489a17;
 }
 .new-home-link {
