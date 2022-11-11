@@ -438,6 +438,7 @@
 }
 .new-home-navlink11 {
   color: rgb(210, 227, 19);
+  z-index: 150;
   font-size: 35px;
   font-style: normal;
   margin-top: 15px;
@@ -460,6 +461,7 @@
 }
 .new-home-navlink12 {
   color: #378aec;
+  z-index: 150;
   font-size: 35px;
   font-style: normal;
   margin-top: 15px;
@@ -482,6 +484,7 @@
 }
 .new-home-navlink13 {
   color: #6ae221;
+  z-index: 150;
   font-size: 35px;
   font-style: normal;
   margin-top: 15px;
@@ -504,6 +507,7 @@
 }
 .new-home-navlink14 {
   color: rgb(227, 19, 190);
+  z-index: 150;
   font-size: 35px;
   font-style: normal;
   margin-top: 15px;
@@ -526,6 +530,7 @@
 }
 .new-home-navlink15 {
   color: #dae221;
+  z-index: 150;
   font-size: 35px;
   font-style: normal;
   margin-top: 15px;
@@ -548,6 +553,7 @@
 }
 .new-home-navlink16 {
   color: #21d7e2;
+  z-index: 150;
   font-size: 35px;
   font-style: normal;
   margin-top: 15px;
@@ -570,6 +576,7 @@
 }
 .new-home-navlink17 {
   color: #6ae221;
+  z-index: 150;
   font-size: 35px;
   font-style: normal;
   margin-top: 15px;
@@ -592,6 +599,7 @@
 }
 .new-home-link {
   color: #378aec;
+  z-index: 150;
   font-size: 35px;
   font-style: normal;
   margin-top: 15px;
