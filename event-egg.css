@@ -392,9 +392,11 @@
 }
 .event-egg-container4 {
   left: 0px;
-  width: 30%;
-  bottom: -6px;
+  right: 0px;
+  width: 219px;
+  bottom: -14px;
   height: 218px;
+  margin: auto;
   display: flex;
   position: absolute;
   align-items: flex-start;
@@ -475,9 +477,11 @@
 }
 .event-egg-container5 {
   left: 0px;
-  width: 30%;
+  right: 0px;
+  width: 233px;
   bottom: -6px;
   height: 218px;
+  margin: auto;
   display: flex;
   position: absolute;
   align-items: flex-start;
@@ -688,8 +692,8 @@
   }
   .event-egg-text21 {
     color: rgb(209, 216, 234);
-    width: 333px;
-    height: 39px;
+    width: 150px;
+    height: 47px;
     align-self: center;
   }
   .event-egg-feature-card1 {
@@ -700,8 +704,8 @@
   }
   .event-egg-text29 {
     color: rgb(209, 216, 234);
-    width: 333px;
-    height: 39px;
+    width: 90px;
+    height: 41px;
     align-self: center;
   }
   .event-egg-feature-card2 {
