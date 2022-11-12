@@ -454,7 +454,7 @@
   padding-bottom: var(--dl-space-space-unit);
   text-transform: none;
   text-decoration: none;
-  background-image: linear-gradient(135deg, rgb(36, 38, 8) 0.00%,rgb(71, 81, 15) 100.00%);
+  background-image: linear-gradient(135deg, rgb(36, 38, 8) 0%, rgb(71, 81, 15) 100%);
 }
 .new-home-navlink11:hover {
   color: #97a40f;
