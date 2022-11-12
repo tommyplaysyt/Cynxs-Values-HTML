@@ -421,18 +421,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.misc-text27 {
+.misc-text25 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.misc-text28 {
+.misc-text26 {
   color: #d1d8ea;
 }
-.misc-text29 {
+.misc-text27 {
   color: #d6b01c;
 }
-.misc-text30 {
+.misc-text28 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -440,10 +440,10 @@
   text-transform: none;
   text-decoration: none;
 }
-.misc-text31 {
+.misc-text29 {
   color: #d1d8ea;
 }
-.misc-text32 {
+.misc-text30 {
   color: rgb(209, 216, 234);
 }
 .misc-container06 {
@@ -457,18 +457,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.misc-text35 {
+.misc-text33 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.misc-text36 {
+.misc-text34 {
   color: #d1d8ea;
 }
-.misc-text37 {
+.misc-text35 {
   color: #d6b01c;
 }
-.misc-text38 {
+.misc-text36 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -476,10 +476,10 @@
   text-transform: none;
   text-decoration: none;
 }
-.misc-text39 {
+.misc-text37 {
   color: #d1d8ea;
 }
-.misc-text40 {
+.misc-text38 {
   color: rgb(209, 216, 234);
 }
 .misc-feature-card1 {
@@ -503,18 +503,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.misc-text43 {
+.misc-text41 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.misc-text44 {
+.misc-text42 {
   color: #d1d8ea;
 }
-.misc-text45 {
+.misc-text43 {
   color: #d6b01c;
 }
-.misc-text46 {
+.misc-text44 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -522,10 +522,10 @@
   text-transform: none;
   text-decoration: none;
 }
-.misc-text47 {
+.misc-text45 {
   color: #d1d8ea;
 }
-.misc-text48 {
+.misc-text46 {
   color: rgb(209, 216, 234);
 }
 .misc-container08 {
@@ -541,18 +541,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.misc-text51 {
+.misc-text49 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.misc-text52 {
+.misc-text50 {
   color: #d1d8ea;
 }
-.misc-text53 {
+.misc-text51 {
   color: #d6b01c;
 }
-.misc-text54 {
+.misc-text52 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -560,10 +560,10 @@
   text-transform: none;
   text-decoration: none;
 }
-.misc-text55 {
+.misc-text53 {
   color: #d1d8ea;
 }
-.misc-text56 {
+.misc-text54 {
   color: rgb(209, 216, 234);
 }
 .misc-container09 {
@@ -577,18 +577,18 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.misc-text59 {
+.misc-text57 {
   color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
-.misc-text60 {
+.misc-text58 {
   color: #d1d8ea;
 }
-.misc-text61 {
+.misc-text59 {
   color: #d6b01c;
 }
-.misc-text62 {
+.misc-text60 {
   color: rgb(155, 147, 42);
   font-size: 20px;
   font-family: Inter;
@@ -596,10 +596,10 @@
   text-transform: none;
   text-decoration: none;
 }
-.misc-text63 {
+.misc-text61 {
   color: #d1d8ea;
 }
-.misc-text64 {
+.misc-text62 {
   color: rgb(209, 216, 234);
 }
 .misc-feature-card2 {
@@ -621,7 +621,7 @@
   align-items: center;
   flex-direction: column;
 }
-.misc-text67 {
+.misc-text65 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -635,7 +635,7 @@
 .misc-link {
   display: contents;
 }
-.misc-text70 {
+.misc-text68 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -645,10 +645,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.misc-text70:hover {
+.misc-text68:hover {
   color: #269b98;
 }
-.misc-text71 {
+.misc-text69 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -693,11 +693,11 @@
     width: 90%;
     height: 350px;
   }
-  .misc-text27 {
+  .misc-text25 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .misc-text30 {
+  .misc-text28 {
     color: rgb(155, 147, 42);
     font-size: 20px;
     font-family: Inter;
@@ -710,11 +710,11 @@
     width: 90%;
     height: 350px;
   }
-  .misc-text51 {
+  .misc-text49 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .misc-text54 {
+  .misc-text52 {
     color: rgb(155, 147, 42);
     font-size: 20px;
     font-family: Inter;
@@ -725,7 +725,7 @@
   .misc-feature-card2 {
     height: 557px;
   }
-  .misc-text67 {
+  .misc-text65 {
     color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: Inter;
@@ -733,7 +733,7 @@
     text-transform: none;
     text-decoration: none;
   }
-  .misc-text70 {
+  .misc-text68 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -763,13 +763,13 @@
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .misc-text27 {
+  .misc-text25 {
     color: rgb(209, 216, 234);
   }
-  .misc-text35 {
+  .misc-text33 {
     color: rgb(209, 216, 234);
   }
-  .misc-text38 {
+  .misc-text36 {
     color: rgb(155, 147, 42);
     font-size: 20px;
     font-family: Inter;
@@ -780,17 +780,17 @@
   .misc-feature-card1 {
     height: 325px;
   }
-  .misc-text43 {
+  .misc-text41 {
     color: rgb(209, 216, 234);
     font-weight: 600;
   }
-  .misc-text51 {
+  .misc-text49 {
     color: rgb(209, 216, 234);
   }
-  .misc-text59 {
+  .misc-text57 {
     color: rgb(209, 216, 234);
   }
-  .misc-text62 {
+  .misc-text60 {
     color: rgb(155, 147, 42);
     font-size: 20px;
     font-family: Inter;
@@ -802,7 +802,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .misc-text70 {
+  .misc-text68 {
     color: #13e3df;
     text-align: center;
   }
@@ -825,19 +825,19 @@
   .misc-text17 {
     font-weight: 600;
   }
-  .misc-text27 {
+  .misc-text25 {
     font-weight: 600;
   }
-  .misc-text35 {
+  .misc-text33 {
     font-weight: 600;
   }
-  .misc-text43 {
+  .misc-text41 {
     font-weight: 600;
   }
-  .misc-text51 {
+  .misc-text49 {
     font-weight: 600;
   }
-  .misc-text59 {
+  .misc-text57 {
     font-weight: 600;
   }
   .misc-turquoise-cirble1 {
@@ -942,10 +942,10 @@
   .misc-container10 {
     height: auto;
   }
-  .misc-text67 {
+  .misc-text65 {
     height: 100%;
   }
-  .misc-text70 {
+  .misc-text68 {
     height: 100%;
     font-size: xx-small;
   }
