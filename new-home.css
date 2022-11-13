@@ -339,9 +339,6 @@
 .new-home-text18 {
   color: #18e61a;
 }
-.new-home-text19 {
-  color: #ffffff;
-}
 .new-home-main {
   width: 100%;
   display: flex;
@@ -437,6 +434,29 @@
   color: #1baab3;
 }
 .new-home-navlink11 {
+  color: rgb(227, 19, 190);
+  z-index: 150;
+  font-size: 35px;
+  font-style: normal;
+  margin-top: 15px;
+  transition: 0.3s;
+  font-family: Inter;
+  font-weight: 700;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgb(227, 19, 190);
+  border-style: inset;
+  border-width: 6px;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-bottom: var(--dl-space-space-unit);
+  text-transform: none;
+  text-decoration: none;
+  background-image: linear-gradient(135deg, rgb(45, 8, 39) 0%, rgb(102, 16, 86) 100%);
+}
+.new-home-navlink11:hover {
+  color: #960d7e;
+}
+.new-home-navlink12 {
   color: rgb(210, 227, 19);
   z-index: 150;
   font-size: 35px;
@@ -456,10 +476,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(36, 38, 8) 0%, rgb(71, 81, 15) 100%);
 }
-.new-home-navlink11:hover {
+.new-home-navlink12:hover {
   color: #97a40f;
 }
-.new-home-navlink12 {
+.new-home-navlink13 {
   color: #378aec;
   z-index: 150;
   font-size: 35px;
@@ -479,10 +499,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 28, 38) 0.00%,rgb(15, 53, 81) 100.00%);
 }
-.new-home-navlink12:hover {
+.new-home-navlink13:hover {
   color: #2a67af;
 }
-.new-home-navlink13 {
+.new-home-navlink14 {
   color: #6ae221;
   z-index: 150;
   font-size: 35px;
@@ -502,31 +522,8 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 38, 15) 0.00%,rgb(15, 81, 21) 100.00%);
 }
-.new-home-navlink13:hover {
-  color: #489a17;
-}
-.new-home-navlink14 {
-  color: rgb(227, 19, 190);
-  z-index: 150;
-  font-size: 35px;
-  font-style: normal;
-  margin-top: 15px;
-  transition: 0.3s;
-  font-family: Inter;
-  font-weight: 700;
-  padding-top: var(--dl-space-space-unit);
-  border-color: rgb(227, 19, 190);
-  border-style: inset;
-  border-width: 6px;
-  padding-left: 32px;
-  padding-right: 32px;
-  padding-bottom: var(--dl-space-space-unit);
-  text-transform: none;
-  text-decoration: none;
-  background-image: linear-gradient(135deg, rgb(45, 8, 39) 0.00%,rgb(102, 16, 86) 100.00%);
-}
 .new-home-navlink14:hover {
-  color: #960d7e;
+  color: #489a17;
 }
 .new-home-navlink15 {
   color: #dae221;
@@ -598,7 +595,7 @@
   color: #489a17;
 }
 .new-home-link {
-  color: #378aec;
+  color: rgb(55, 138, 236);
   z-index: 150;
   font-size: 35px;
   font-style: normal;
@@ -615,7 +612,7 @@
   padding-bottom: var(--dl-space-space-unit);
   text-transform: none;
   text-decoration: none;
-  background-image: linear-gradient(135deg, rgb(8, 28, 38) 0.00%,rgb(15, 53, 81) 100.00%);
+  background-image: linear-gradient(135deg, rgb(8, 28, 38) 0%, rgb(15, 53, 81) 100%);
 }
 .new-home-link:hover {
   color: #2761a0;
@@ -631,7 +628,7 @@
   flex-direction: row;
   justify-content: center;
 }
-.new-home-text20 {
+.new-home-text19 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: small;
@@ -691,7 +688,7 @@
   align-items: center;
   flex-direction: column;
 }
-.new-home-text23 {
+.new-home-text22 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -705,7 +702,7 @@
 .new-home-link1 {
   display: contents;
 }
-.new-home-text26 {
+.new-home-text25 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -715,10 +712,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.new-home-text26:hover {
+.new-home-text25:hover {
   color: #269b98;
 }
-.new-home-text27 {
+.new-home-text26 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -755,7 +752,7 @@
   .new-home-text06 {
     font-size: 72px;
   }
-  .new-home-text20 {
+  .new-home-text19 {
     color: rgb(255, 255, 255);
     font-style: normal;
     font-family: Montserrat;
@@ -778,7 +775,7 @@
   .new-home-feature-card2 {
     height: 557px;
   }
-  .new-home-text23 {
+  .new-home-text22 {
     color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: Inter;
@@ -786,7 +783,7 @@
     text-transform: none;
     text-decoration: none;
   }
-  .new-home-text26 {
+  .new-home-text25 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -846,7 +843,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .new-home-text20 {
+  .new-home-text19 {
     color: rgb(255, 255, 255);
     text-align: center;
   }
@@ -858,7 +855,7 @@
     height: 518px;
     padding-top: 112px;
   }
-  .new-home-text26 {
+  .new-home-text25 {
     color: #13e3df;
     text-align: center;
   }
@@ -925,7 +922,7 @@
   .new-home-feature-card1 {
     height: 1450px;
   }
-  .new-home-text20 {
+  .new-home-text19 {
     height: 100%;
     font-size: xx-small;
   }
@@ -935,10 +932,10 @@
   .new-home-container5 {
     height: auto;
   }
-  .new-home-text23 {
+  .new-home-text22 {
     height: 100%;
   }
-  .new-home-text26 {
+  .new-home-text25 {
     height: 100%;
     font-size: xx-small;
   }
