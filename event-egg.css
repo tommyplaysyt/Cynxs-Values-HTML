@@ -459,7 +459,7 @@
   object-fit: cover;
 }
 .event-egg-text21 {
-  color: #d1d8ea;
+  color: rgb(209, 216, 234);
   font-weight: 600;
   margin-bottom: var(--dl-space-space-unit);
 }
