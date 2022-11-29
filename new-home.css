@@ -522,29 +522,6 @@
   color: #b71446;
 }
 .new-home-navlink14 {
-  color: rgb(55, 138, 236);
-  z-index: 150;
-  font-size: 35px;
-  font-style: normal;
-  margin-top: 15px;
-  transition: 0.3s;
-  font-family: Inter;
-  font-weight: 700;
-  padding-top: var(--dl-space-space-unit);
-  border-color: #378aec;
-  border-style: inset;
-  border-width: 6px;
-  padding-left: 32px;
-  padding-right: 32px;
-  padding-bottom: var(--dl-space-space-unit);
-  text-transform: none;
-  text-decoration: none;
-  background-image: linear-gradient(135deg, rgb(8, 28, 38) 0%, rgb(15, 53, 81) 100%);
-}
-.new-home-navlink14:hover {
-  color: #2a67af;
-}
-.new-home-navlink15 {
   color: #6ae221;
   z-index: 150;
   font-size: 35px;
@@ -564,10 +541,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 38, 15) 0.00%,rgb(15, 81, 21) 100.00%);
 }
-.new-home-navlink15:hover {
+.new-home-navlink14:hover {
   color: #489a17;
 }
-.new-home-navlink16 {
+.new-home-navlink15 {
   color: #dae221;
   z-index: 150;
   font-size: 35px;
@@ -587,10 +564,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(62, 68, 13) 0.00%,rgb(95, 102, 16) 100.00%);
 }
-.new-home-navlink16:hover {
+.new-home-navlink15:hover {
   color: #a8ad1c;
 }
-.new-home-navlink17 {
+.new-home-navlink16 {
   color: #21d7e2;
   z-index: 150;
   font-size: 35px;
@@ -610,10 +587,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(13, 62, 68) 0.00%,rgb(15, 81, 77) 100.00%);
 }
-.new-home-navlink17:hover {
+.new-home-navlink16:hover {
   color: #1baab3;
 }
-.new-home-navlink18 {
+.new-home-navlink17 {
   color: #6ae221;
   z-index: 150;
   font-size: 35px;
@@ -633,7 +610,7 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 38, 15) 0.00%,rgb(15, 81, 21) 100.00%);
 }
-.new-home-navlink18:hover {
+.new-home-navlink17:hover {
   color: #489a17;
 }
 .new-home-link1 {
