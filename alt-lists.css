@@ -326,13 +326,6 @@
 .alt-lists-text06 {
   font-size: 72px;
 }
-.alt-lists-text08 {
-  color: rgb(255, 255, 255);
-  font-size: 2em;
-  text-align: center;
-  font-family: Montserrat;
-  margin-bottom: var(--dl-space-space-doubleunit);
-}
 .alt-lists-container3 {
   flex: 0 0 auto;
   width: auto;
@@ -438,7 +431,7 @@
   align-items: center;
   flex-direction: column;
 }
-.alt-lists-text13 {
+.alt-lists-text08 {
   color: rgb(255, 255, 255);
   width: 80%;
   font-size: 28px;
@@ -452,7 +445,7 @@
 .alt-lists-link1 {
   display: contents;
 }
-.alt-lists-text16 {
+.alt-lists-text11 {
   color: #13e3df;
   width: 80%;
   font-size: small;
@@ -462,10 +455,10 @@
   margin-bottom: var(--dl-space-space-doubleunit);
   text-decoration: none;
 }
-.alt-lists-text16:hover {
+.alt-lists-text11:hover {
   color: #269b98;
 }
-.alt-lists-text17 {
+.alt-lists-text12 {
   font-size: 40px;
   font-family: Inter;
   font-weight: 800;
@@ -499,14 +492,10 @@
     color: rgb(255, 255, 255);
     font-family: Montserrat;
   }
-  .alt-lists-text08 {
-    color: rgb(255, 255, 255);
-    font-family: Montserrat;
-  }
   .alt-lists-feature-card1 {
     height: 557px;
   }
-  .alt-lists-text13 {
+  .alt-lists-text08 {
     color: rgb(255, 255, 255);
     font-size: 28px;
     font-family: Inter;
@@ -514,7 +503,7 @@
     text-transform: none;
     text-decoration: none;
   }
-  .alt-lists-text16 {
+  .alt-lists-text11 {
     color: #13e3df;
     font-style: normal;
     font-family: Montserrat;
@@ -539,15 +528,11 @@
     color: rgb(255, 255, 255);
     text-align: center;
   }
-  .alt-lists-text08 {
-    color: rgb(255, 255, 255);
-    text-align: center;
-  }
   .alt-lists-feature-card1 {
     height: 518px;
     padding-top: 112px;
   }
-  .alt-lists-text16 {
+  .alt-lists-text11 {
     color: #13e3df;
     text-align: center;
   }
@@ -599,20 +584,16 @@
     height: 689px;
     font-size: small;
   }
-  .alt-lists-text08 {
-    height: 689px;
-    font-size: small;
-  }
   .alt-lists-feature-card1 {
     height: 250%;
   }
   .alt-lists-container4 {
     height: auto;
   }
-  .alt-lists-text13 {
+  .alt-lists-text08 {
     height: 100%;
   }
-  .alt-lists-text16 {
+  .alt-lists-text11 {
     height: 100%;
     font-size: xx-small;
   }

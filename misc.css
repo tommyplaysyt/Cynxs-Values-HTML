@@ -403,7 +403,7 @@
   text-decoration: none;
 }
 .misc-text21 {
-  color: #d1d8ea;
+  color: #6be01d;
 }
 .misc-text22 {
   color: rgb(209, 216, 234);
@@ -441,7 +441,7 @@
   text-decoration: none;
 }
 .misc-text29 {
-  color: #d1d8ea;
+  color: #6be01d;
 }
 .misc-text30 {
   color: rgb(209, 216, 234);
@@ -477,7 +477,7 @@
   text-decoration: none;
 }
 .misc-text37 {
-  color: #d1d8ea;
+  color: #6be01d;
 }
 .misc-text38 {
   color: rgb(209, 216, 234);
@@ -523,7 +523,7 @@
   text-decoration: none;
 }
 .misc-text45 {
-  color: #d1d8ea;
+  color: #6be01d;
 }
 .misc-text46 {
   color: rgb(209, 216, 234);
@@ -535,7 +535,7 @@
   bottom: -6px;
   height: 218px;
   margin: auto;
-  display: flex;
+  display: none;
   position: absolute;
   align-items: flex-start;
   flex-direction: column;
@@ -561,7 +561,7 @@
   text-decoration: none;
 }
 .misc-text53 {
-  color: #d1d8ea;
+  color: #6be01d;
 }
 .misc-text54 {
   color: rgb(209, 216, 234);
@@ -571,7 +571,7 @@
   width: 30%;
   bottom: 0px;
   height: 218px;
-  display: flex;
+  display: none;
   position: absolute;
   align-items: flex-start;
   flex-direction: column;
@@ -597,7 +597,7 @@
   text-decoration: none;
 }
 .misc-text61 {
-  color: #d1d8ea;
+  color: #6be01d;
 }
 .misc-text62 {
   color: rgb(209, 216, 234);
