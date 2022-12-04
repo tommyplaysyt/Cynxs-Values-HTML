@@ -535,7 +535,8 @@
   bottom: -6px;
   height: 218px;
   margin: auto;
-  display: none;
+  display: flex;
+  opacity: 1;
   position: absolute;
   align-items: flex-start;
   flex-direction: column;
@@ -571,7 +572,8 @@
   width: 30%;
   bottom: 0px;
   height: 218px;
-  display: none;
+  display: flex;
+  opacity: 1;
   position: absolute;
   align-items: flex-start;
   flex-direction: column;
