@@ -453,29 +453,6 @@
   color: #1baab3;
 }
 .new-home-navlink11 {
-  color: rgb(210, 227, 19);
-  z-index: 150;
-  font-size: 35px;
-  font-style: normal;
-  margin-top: 15px;
-  transition: 0.3s;
-  font-family: Inter;
-  font-weight: 700;
-  padding-top: var(--dl-space-space-unit);
-  border-color: rgb(210, 227, 19);
-  border-style: inset;
-  border-width: 6px;
-  padding-left: 32px;
-  padding-right: 32px;
-  padding-bottom: var(--dl-space-space-unit);
-  text-transform: none;
-  text-decoration: none;
-  background-image: linear-gradient(135deg, rgb(36, 38, 8) 0%, rgb(71, 81, 15) 100%);
-}
-.new-home-navlink11:hover {
-  color: #97a40f;
-}
-.new-home-navlink12 {
   color: rgb(106, 226, 33);
   z-index: 150;
   font-size: 35px;
@@ -495,10 +472,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 38, 15) 0%, rgb(15, 81, 21) 100%);
 }
-.new-home-navlink12:hover {
+.new-home-navlink11:hover {
   color: #489a17;
 }
-.new-home-navlink13 {
+.new-home-navlink12 {
   color: #dae221;
   z-index: 150;
   font-size: 35px;
@@ -518,10 +495,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(62, 68, 13) 0.00%,rgb(95, 102, 16) 100.00%);
 }
-.new-home-navlink13:hover {
+.new-home-navlink12:hover {
   color: #a8ad1c;
 }
-.new-home-navlink14 {
+.new-home-navlink13 {
   color: rgb(227, 19, 190);
   z-index: 150;
   font-size: 35px;
@@ -541,10 +518,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(45, 8, 39) 0%, rgb(102, 16, 86) 100%);
 }
-.new-home-navlink14:hover {
+.new-home-navlink13:hover {
   color: #960d7e;
 }
-.new-home-navlink15 {
+.new-home-navlink14 {
   color: #21d7e2;
   z-index: 150;
   font-size: 35px;
@@ -564,10 +541,10 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(13, 62, 68) 0.00%,rgb(15, 81, 77) 100.00%);
 }
-.new-home-navlink15:hover {
+.new-home-navlink14:hover {
   color: #1baab3;
 }
-.new-home-navlink16 {
+.new-home-navlink15 {
   color: #6ae221;
   z-index: 150;
   font-size: 35px;
@@ -587,7 +564,7 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(8, 38, 15) 0.00%,rgb(15, 81, 21) 100.00%);
 }
-.new-home-navlink16:hover {
+.new-home-navlink15:hover {
   color: #489a17;
 }
 .new-home-link1 {
@@ -613,7 +590,7 @@
 .new-home-link1:hover {
   color: #2761a0;
 }
-.new-home-navlink17 {
+.new-home-navlink16 {
   color: #e31351;
   z-index: 150;
   font-size: 35px;
@@ -633,7 +610,7 @@
   text-decoration: none;
   background-image: linear-gradient(135deg, rgb(38, 8, 8) 0.00%,rgb(81, 15, 15) 100.00%);
 }
-.new-home-navlink17:hover {
+.new-home-navlink16:hover {
   color: #b71446;
 }
 .new-home-feature-card1 {
